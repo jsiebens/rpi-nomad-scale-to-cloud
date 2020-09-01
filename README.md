@@ -1,0 +1,1 @@
+[Scale out your Raspberry Pi Nomad cluster to the cloud](https://johansiebens.dev/posts/2020/09/scale-out-your-raspberry-pi-nomad-cluster-to-the-cloud/)
